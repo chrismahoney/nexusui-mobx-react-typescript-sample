@@ -23,9 +23,11 @@
   },
   "homepage": "http://mobxjs.github.com/mobx",
   "devDependencies": {
+    "@types/debug": "0.0.29",
     "@types/react": "^0.14.36",
     "@types/react-dom": "^0.14.17",
     "awesome-typescript-loader": "^2.2.4",
+    "debug": "^2.6.0",
     "typescript": "2.0.3",
     "webpack": "^1.9.6",
     "webpack-dev-server": "^1.8.2"
